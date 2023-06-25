@@ -1,1 +1,2 @@
-
+Analysis of census, crime, and school data for a non-profit organization to improve educational outcomes for children and youth in the City of Chicago
+This task was completed by downloading the datasets provided, loading them into a database, writing and executing SQL queries to answer the problems provided.
