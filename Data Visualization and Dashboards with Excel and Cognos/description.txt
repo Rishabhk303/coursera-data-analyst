@@ -1,0 +1,5 @@
+Creating Visualizations using Excel for a chain of car dealerships to understand car sales and profits for Each dealer
+  Created visualizations for the following captured Key Performance Indicator metrics :- 
+   'Sum of Profits' for 'Hudson model cars' by 'Dealer ID' as a line chart. 
+   'Profit' by 'Year' and 'Dealer ID' as a column chart. 
+   Quantity Sold' by 'Dealer ID' as a bar chart.
