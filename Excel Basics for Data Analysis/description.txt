@@ -1,0 +1,4 @@
+ Pre-processing and Analysis of Data in CSV format for inventory information about fleet:
+    Cleaning of data by removing duplicate entries, white spaces, empty rows and columns 
+      Use of pivot tables to analyze the data for the results to be visualized in a dashboard and added to a data findings report
+      Use of Vlookup, Hlookup, Index and Match functions to personalize the data
